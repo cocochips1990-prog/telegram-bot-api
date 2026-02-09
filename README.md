@@ -71,7 +71,7 @@ See [Bots: An introduction for developers](https://core.telegram.org/bots) for a
 
 See the [Telegram Bot API documentation](https://core.telegram.org/bots/api) for a description of the Bot API interface and a complete list of available classes, methods and updates.
 
-See the [Telegram Bot API server build instructions generator](https://tdlib.github.io/telegram-bot-api/build.html) for detailed instructions on how to build the Telegram Bot API server.
+See the [Telegram Bot API server build instructions generator] kuinstructions on how to build the Telegram Bot API server.
 
 Subscribe to [@BotNews](https://t.me/botnews) to be the first to know about the latest updates and join the discussion in [@BotTalk](https://t.me/bottalk).
 
